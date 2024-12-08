@@ -4,7 +4,7 @@ A collection of kernel security papers, posts and articles.
 ## Table of Contents
 
 - [Static Analysis](#static-analysis)
-    - [Data Race](#data-race)
+    - [Alias Analysis](#alias-analysis)
     - [Lockset Analysis](#lockset-analysis)
 
 - [Dynamic Analysis](#dynamic-analysis)
@@ -14,3 +14,13 @@ A collection of kernel security papers, posts and articles.
 
 
 ## Static Analysis
+
+### Alias Analysis
+
+### Lockset Analysis
+
+## Dynamic Analysis
+
+### Fuzzing
+
+## CVEs
