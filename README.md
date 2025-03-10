@@ -23,6 +23,7 @@ A collection of kernel security papers, posts and articles.
 - [DLOS: Effective Static Detection of Deadlocks in OS Kernels](https://www.usenix.org/conference/atc22/presentation/bai)
 - [DR. CHECKER: A Soundy Analysis for Linux Kernel Drivers](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/machiry)
 - [LLMDFA: Analyzing Dataflow in Code with Large Language Models](https://arxiv.org/abs/2402.10754)
+- [SVF: Interprocedural Static Value-Flow Analysis in LLVM](http://yuleisui.github.io/publications/cc16.pdf)
 
 ### Static Lockset Analysis
 - [Effective Static Analysis of Concurrency Use-After-Free Bugs in Linux Device Drivers](https://www.usenix.org/conference/atc19/presentation/bai)
